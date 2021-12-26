@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2d100f17-50bf-40ea-abdf-6144c6e7d2b5": {
+      "ProjectGuid": "2d100f17-50bf-40ea-abdf-6144c6e7d2b5",
+      "DisplayName": "TrackerLIbrary",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
