@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AffyThoughts\\Documents\\TournamentTracker\\TournamentTracker\\TrackerLIbrary\\TrackerLIbrary.csproj",
-      "projectName": "TrackerLIbrary",
-      "projectPath": "C:\\Users\\AffyThoughts\\Documents\\TournamentTracker\\TournamentTracker\\TrackerLIbrary\\TrackerLIbrary.csproj",
+      "projectUniqueName": "C:\\Users\\AffyThoughts\\Documents\\TournamentTracker\\TournamentTracker\\TrackerLIbrary\\TrackerLibrary.csproj",
+      "projectName": "TrackerLibrary",
+      "projectPath": "C:\\Users\\AffyThoughts\\Documents\\TournamentTracker\\TournamentTracker\\TrackerLIbrary\\TrackerLibrary.csproj",
       "packagesPath": "C:\\Users\\AffyThoughts\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\AffyThoughts\\Documents\\TournamentTracker\\TournamentTracker\\TrackerLIbrary\\obj\\",
       "projectStyle": "PackageReference",
@@ -27,7 +27,8 @@
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {

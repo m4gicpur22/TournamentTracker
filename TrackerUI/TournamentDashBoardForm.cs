@@ -3,19 +3,21 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace TrackerUI
 {
-    public partial class TournamentViewer : Form
+    public partial class TournamentDashBoardForm : Form
     {
-        public TournamentViewer()
+        public TournamentDashBoardForm()
         {
             InitializeComponent();
         }
 
+        private void LoadTournamentButton_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
