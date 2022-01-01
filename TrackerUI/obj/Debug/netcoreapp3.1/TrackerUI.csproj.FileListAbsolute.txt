@@ -1,10 +1,12 @@
 C:\Users\AffyThoughts\Documents\TournamentTracker\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\TrackerUI.exe
-C:\Users\AffyThoughts\Documents\TournamentTracker\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\TrackerUI.deps.json
-C:\Users\AffyThoughts\Documents\TournamentTracker\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\TrackerUI.runtimeconfig.json
-C:\Users\AffyThoughts\Documents\TournamentTracker\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\TrackerUI.runtimeconfig.dev.json
 C:\Users\AffyThoughts\Documents\TournamentTracker\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\TrackerUI.dll
-C:\Users\AffyThoughts\Documents\TournamentTracker\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\TrackerUI.pdb
+C:\Users\AffyThoughts\Documents\TournamentTracker\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\TrackerLibrary.dll
+C:\Users\AffyThoughts\Documents\TournamentTracker\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\TrackerLibrary.pdb
 C:\Users\AffyThoughts\Documents\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.csproj.AssemblyReference.cache
+C:\Users\AffyThoughts\Documents\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.CreatePrize.resources
+C:\Users\AffyThoughts\Documents\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.CreateTeamForm.resources
+C:\Users\AffyThoughts\Documents\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.CreateTournamentForm.resources
+C:\Users\AffyThoughts\Documents\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.TournamentDashBoardForm.resources
 C:\Users\AffyThoughts\Documents\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.TournamentViewerForm.resources
 C:\Users\AffyThoughts\Documents\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.csproj.GenerateResource.cache
 C:\Users\AffyThoughts\Documents\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.GeneratedMSBuildEditorConfig.editorconfig
@@ -13,4 +15,3 @@ C:\Users\AffyThoughts\Documents\TournamentTracker\TournamentTracker\TrackerUI\ob
 C:\Users\AffyThoughts\Documents\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.csproj.CoreCompileInputs.cache
 C:\Users\AffyThoughts\Documents\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.dll
 C:\Users\AffyThoughts\Documents\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.pdb
-C:\Users\AffyThoughts\Documents\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.genruntimeconfig.cache

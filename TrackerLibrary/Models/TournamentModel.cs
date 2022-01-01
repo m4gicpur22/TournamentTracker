@@ -21,7 +21,7 @@ namespace TrackerLIbrary
         /// <summary>
         /// List for tracking prizes
         /// </summary>
-        public List<PrizeModal> Prizes { get; set; } = new List<PrizeModal>();
+        public List<PrizeModel> Prizes { get; set; } = new List<PrizeModel>();
         /// <summary>
         /// List of rounds per matchUp
         /// </summary>
